@@ -1,2 +1,2 @@
 # PAM-CLUSTERING
-C language implementation for PAM using Minkwoski distance and Pearson correlation as similarity difference
+C language implementation for PAM  Clustering using Minkwoski distance and Pearson correlation as similarity difference
